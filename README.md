@@ -19,8 +19,8 @@ Anna: Git lead & styling
 Peter: Backend lead
 
 ## Tech:
-Framer motion, animations 
-Geo location 
+Geo Location, Google Maps Api, Tailwind
+
 ## Git flow:
 Main => Dev => Feature branches 
 Peer review before pushing to dev 
